@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/AmeyMart/static/css/main.11a1bc3e.css",
+    "main.js": "/AmeyMart/static/js/main.ed6c3f4d.js",
+    "static/js/787.23170c61.chunk.js": "/AmeyMart/static/js/787.23170c61.chunk.js",
+    "static/media/img1.webp": "/AmeyMart/static/media/img1.d696e2bea595130da47e.webp",
+    "static/media/img4.jpeg": "/AmeyMart/static/media/img4.8f7bfd2d875979f8f9d3.jpeg",
+    "static/media/img2.jpeg": "/AmeyMart/static/media/img2.1b3d6120ff91d31d69be.jpeg",
+    "static/media/img7.jpeg": "/AmeyMart/static/media/img7.0ad9bff79e83088abf27.jpeg",
+    "static/media/img18.jpeg": "/AmeyMart/static/media/img18.28dedcd30103e578cfd8.jpeg",
+    "static/media/img-modified.jpeg": "/AmeyMart/static/media/img-modified.28b15fce0db37339bbc1.jpeg",
+    "static/media/img8.jpeg": "/AmeyMart/static/media/img8.c262805ff142e221fbae.jpeg",
+    "static/media/mainimage.jpeg": "/AmeyMart/static/media/mainimage.261cfb1c2e9a4616dded.jpeg",
+    "static/media/img5.jpeg": "/AmeyMart/static/media/img5.416af54ad681e6649533.jpeg",
+    "static/media/img12.jpeg": "/AmeyMart/static/media/img12.479b6cfd592a5cc55257.jpeg",
+    "static/media/img15.jpeg": "/AmeyMart/static/media/img15.06e66022457d257fa7ce.jpeg",
+    "static/media/img11.jpeg": "/AmeyMart/static/media/img11.f8b0be77217a6d5095d4.jpeg",
+    "static/media/img14.webp": "/AmeyMart/static/media/img14.280aa0af5b6b4340d12a.webp",
+    "static/media/img6.jpeg": "/AmeyMart/static/media/img6.702a892f498553208372.jpeg",
+    "static/media/img10.jpeg": "/AmeyMart/static/media/img10.f9635ed0591819d7660e.jpeg",
+    "static/media/img13.jpeg": "/AmeyMart/static/media/img13.54fab830601216f6238d.jpeg",
+    "static/media/img3.jpeg": "/AmeyMart/static/media/img3.04d49ac628d41839e235.jpeg",
+    "static/media/img16.jpeg": "/AmeyMart/static/media/img16.1ddfb48ccc9f46ddff3f.jpeg",
+    "static/media/img9.jpeg": "/AmeyMart/static/media/img9.d5387229d2d739f8efbc.jpeg",
+    "static/media/img17.jpeg": "/AmeyMart/static/media/img17.d73cc5d2ec60a2661052.jpeg",
+    "static/media/logo.png": "/AmeyMart/static/media/logo.0ee9bb8bb07ad41c2ea7.png",
+    "static/media/VISA-logo.png": "/AmeyMart/static/media/VISA-logo.e5c3bd4921f13ab1a4e2.png",
+    "static/media/logo.svg": "/AmeyMart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AmeyMart/index.html",
+    "main.11a1bc3e.css.map": "/AmeyMart/static/css/main.11a1bc3e.css.map",
+    "main.ed6c3f4d.js.map": "/AmeyMart/static/js/main.ed6c3f4d.js.map",
+    "787.23170c61.chunk.js.map": "/AmeyMart/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11a1bc3e.css",
+    "static/js/main.ed6c3f4d.js"
+  ]
+}
