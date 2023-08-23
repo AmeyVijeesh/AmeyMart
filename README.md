@@ -1,4 +1,5 @@
 Non-responsive e-commerce website.
+# ***THIS WEBSITE IS NO LONGER MAINTAINED***
 
 # Getting Started with Create React App
 
