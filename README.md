@@ -2,7 +2,7 @@ Non-responsive e-commerce website.
 # ***THIS WEBSITE IS NO LONGER MAINTAINED***
 
 
-Using create react app
+Made using create-react-app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
